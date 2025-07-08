@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suphakon Intasara
 =========================================================================================================================================
 
+* 🏫  I'm study in RMUTL
 * 🌍  I'm based in Chiangmai,Thailand
 * ✉️  You can contact me at [suphakon143@gmail.com](mailto:suphakon143@gmail.com)
 
